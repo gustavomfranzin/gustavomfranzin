@@ -1,6 +1,6 @@
 <h3>Hello World, welcome to my GitHub page 👋</h3>
 
- <h4>I’m André Gustavo Maia Franzin and I'm a student and Passionate about tech and learn new stufs!</h4>
+ <h4>I’m André Gustavo Maia Franzin and I'm an eternal passionate and student of IT. Information is never enough, processing and keeping it safe is our mission.</h4>
 
  <div>
   <a href="https://github.com/gustavomfranzin">
